@@ -5,6 +5,7 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
+    "remote": "slidev --remote=lkyms",
     "export": "slidev export"
   },
   "dependencies": {
